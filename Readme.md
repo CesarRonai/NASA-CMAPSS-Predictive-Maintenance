@@ -54,7 +54,7 @@ Predictive maintenance is **crucial in aerospace engineering** to prevent catast
 ## 🖥️ How to Run  
 Clone the repository and install dependencies:  
 ```bash
-git clone https://github.com/seu-usuario/NASA-CMAPSS-Predictive-Maintenance.git
+git clone [https://github.com/CesarRonai/NASA-CMAPSS-Predictive-Maintenance.git]
 cd NASA-CMAPSS-Predictive-Maintenance
 pip install -r requirements.txt
 ```
